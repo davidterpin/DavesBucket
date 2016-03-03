@@ -11,6 +11,8 @@
         android:background="#d5fd9b4a"
         android:layout_centerHorizontal="true"
         android:layout_margin="84dp"
+        android:scaleType="fitXY"
+       
 
       android:src="@drawable/logo_nt" />
 
