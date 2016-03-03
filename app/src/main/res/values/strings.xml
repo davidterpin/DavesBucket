@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DavesBucket</string>
+    <string name="str_add_a_note">Add a note!</string>
 </resources>
